@@ -1,5 +1,53 @@
-# 💫 About Me:
-About Me<br>Hello! I'm Joseph Alex, a passionate and dedicated Full-Stack Developer with over four years of experience in PHP, JavaScript, and jQuery. My journey in the tech world has been driven by a keen interest in building intuitive and visually appealing digital experiences that engage users and solve real-world problems.<br><br>Professional Experience<br>Full-Stack Development: Proficient in HTML, CSS, JavaScript, PHP, and various frameworks. I have successfully developed and maintained high-traffic websites and applications, ensuring optimal performance and user experience.<br>Machine Learning & AI: With one year of experience in machine learning and artificial intelligence, I've worked extensively with Hugging Face and conversational AI technologies to create intelligent and responsive systems.<br>Project Leadership: Experienced in leading projects from concept to deployment, optimizing speed performance, and implementing Agile development methodologies for efficient project delivery.<br>Innovative Solutions: I've developed a variety of projects, including RC planes, robotic arms, traffic lights, and dice games using Arduino. Additionally, I've integrated QR code systems for event management, enhancing security and convenience.<br>Current Role<br>At Projekt Inspire, I work as a Full-Stack Developer and Technology Instructor, where I focus on software development and teaching technology sessions. I am also involved in freelancing, where I create and maintain websites and applications for various clients.<br><br>Skills<br>Frontend Development: HTML, CSS, JavaScript, jQuery, Bootstrap<br>Backend Development: PHP, Node.js, Python<br>Machine Learning & AI: Hugging Face, Conversational AI<br>API Integration: Payment gateways, Google authentication<br>Tools & Technologies: Git, MySQL, Firebase, Beem Africa OTP, and more<br>Interests<br>I'm continuously learning and staying updated with the latest technologies in the field. Outside of work, I enjoy working on innovative tech projects, exploring new AI possibilities, and engaging in tech communities.
+# 💫 About Me
+
+Hello! I'm Joseph Alex — a backend-focused engineer and AI builder who ships real products. I specialize in designing scalable APIs, building automation systems, and deploying full-stack web platforms used by real users.
+
+I’m currently building **EDLENS**, an AI-powered EdTech platform where I architected the entire system end-to-end — from backend services and content APIs to a Next.js frontend deployed on Netlify (yes, I vibe-coded the frontend so the product could ship faster).
+
+I enjoy working on problems that sit at the intersection of **AI, backend engineering, and web platforms**, and I’m especially interested in building systems that empower non-technical users through simple, intuitive dashboards.
+
+---
+
+## 🚀 What I Do
+
+- **Backend Engineering:** Node.js, Python (FastAPI, Flask, Django), REST APIs  
+- **Web Platforms:** API-driven systems, admin dashboards, content platforms  
+- **Frontend (when necessary 😅):** Next.js, modern web apps  
+- **AI & Automation:** RAG pipelines, LLM integrations, workflow automation  
+- **Infrastructure:** Docker, CI/CD, Netlify, cloud deployments  
+
+---
+
+## 🧠 Current Focus
+
+- Building AI-powered web platforms  
+- Designing scalable backend systems  
+- Shipping real products fast  
+- Automating business workflows  
+- Exploring practical AI for real-world users  
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Node.js, Python, PHP  
+**Frontend:** Next.js, JavaScript, HTML, CSS  
+**Databases:** PostgreSQL, Supabase, MySQL, Firebase  
+**Infra:** Docker, CI/CD, Netlify  
+**Automation:** n8n, Zapier, Make  
+
+---
+
+## 🌍 Outside of Work
+
+I enjoy experimenting with new AI tools, building automation systems, and working on ambitious tech ideas. I’m always learning, always shipping, and always curious about what’s possible with modern software.
+
+---
+
+📫 Reach me at:  
+**joseph@edlens-ai.com**  
+LinkedIn: [linkedin.com/in/joseph-alex-0a907322b](https://www.linkedin.com/in/joseph-alex-0a907322b/)
+
 
 
 ## 🌐 Socials:
